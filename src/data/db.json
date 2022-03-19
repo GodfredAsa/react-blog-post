@@ -1,17 +1,16 @@
 {
-    "blogs":[
-      { "title":"My First Blog",
-        "body": "Why do we use it",
-        "author": "Mario",
-        "id":1
-      },
-  
-  
-      { "title":"My pening Party",
-        "body": "Why do we use it",
-        "author": "Yoshi",
-        "id":2
-      }
-  
-  ]
+  "blogs": [
+    {
+      "title": "King's always find the path top the mountains",
+      "body": "I have written many posts that things are not always as they seem to us any longer.",
+      "author": "godfred",
+      "id": 5
+    },
+    {
+      "title": "Mama, the most beautiful things I ever had",
+      "body": "Your smiles are my blessings as your tears are a warning, though you are I cannot stop myself dreaming and seeing you in my mind and my life. Especially the last moments.",
+      "author": "godfred",
+      "id": 12
     }
+  ]
+}
