@@ -1,12 +1,12 @@
 *****************************************************************
 # 1. Install node modules
-- cd into dojo blog
+- cd into dojo-blog
 - npm install
 # 2. Run json server
 - cd into data directory in the dojo-blog directory
 - npx json-server --watch db.json --port 8000
 
-#3 start the application
+# 3 start the application
 - cd dojo-blog
 - npm start 
 
